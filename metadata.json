@@ -1,0 +1,7 @@
+{
+  "name": "Detail Maker AI",
+  "description": "AI-powered product detail page builder for sellers. Generate marketing copy and composite product images using Gemini 3 and Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
